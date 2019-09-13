@@ -42,6 +42,10 @@ export default {
         to: '/page-1'
       },
       {
+        name: 'Question',
+        to: '/Question'
+      },
+      {
         name: 'Bad Link',
         to: '/random-bad-url'
       }
